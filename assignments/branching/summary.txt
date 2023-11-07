@@ -1,2 +1,3 @@
 - A branch in Git is simply a lightweight movable pointer to one of these commits
 - Git Branches allow us to work on different versions of our code simultaneously. Think of branches as alternative timelines.
+- Create new branch and switch it to new branch : git checkout -b
