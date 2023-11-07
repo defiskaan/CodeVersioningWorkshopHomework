@@ -1,1 +1,2 @@
-A branch in Git is simply a lightweight movable pointer to one of these commits
+- A branch in Git is simply a lightweight movable pointer to one of these commits
+- Git Branches allow us to work on different versions of our code simultaneously. Think of branches as alternative timelines.
